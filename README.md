@@ -1,2 +1,2 @@
-# Network-Traffic-Analysis
-Uneeq interns cyber security task3 submission
+# Network traffic analysis using 'Wireshark'
+This is task #3 "Network Traffic Analysis Using Wireshark" in "Uneeq Interns" internship.
